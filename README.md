@@ -32,7 +32,7 @@ To play the game locally, follow these instructions:
 
 # How to Play
 
-Move the paddle using the "D" and "A" keys.
+Move the paddle using the "A" and "D" keys.
 Launch the ball by pressing the spacebar.
 Try to break all the bricks without letting the ball fall below the paddle..
 The game ends when you break all the bricks or let the ball fall.
