@@ -39,20 +39,6 @@ Try to break all the bricks without letting the ball fall below the paddle.
 If the ball falls below the paddle, you lose a life. You have three lives in total.
 The game ends when you break all the bricks or lose all your lives.
 
-# Customization
-
-You can customize certain aspects of the game by modifying the following variables in the breakout.py file:
-
-SCREEN_WIDTH: Width of the game window.
-SCREEN_HEIGHT: Height of the game window.
-PADDLE_WIDTH: Width of the paddle.
-PADDLE_HEIGHT: Height of the paddle.
-BALL_RADIUS: Radius of the ball.
-BRICK_ROWS: Number of rows of bricks.
-BRICK_COLUMNS: Number of columns of bricks.
-BRICK_WIDTH: Width of each brick.
-BRICK_HEIGHT: Height of each brick.
-Feel free to experiment with these values to customize the game according to your preferences.
 
 # License
 
