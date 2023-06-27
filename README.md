@@ -2,7 +2,6 @@
 
 This is a classic Breakout game implemented using the Python Turtle graphics library. The objective of the game is to break all the bricks by bouncing a ball off a paddle.
 
-![Breakout Game](screenshot.png)
 
 ## Getting Started
 
