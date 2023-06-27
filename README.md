@@ -32,16 +32,11 @@ To play the game locally, follow these instructions:
 
 # How to Play
 
-Move the paddle using the left and right arrow keys.
+Move the paddle using the "D" and "A" keys.
 Launch the ball by pressing the spacebar.
-Try to break all the bricks without letting the ball fall below the paddle.
-If the ball falls below the paddle, you lose a life. You have three lives in total.
-The game ends when you break all the bricks or lose all your lives.
+Try to break all the bricks without letting the ball fall below the paddle..
+The game ends when you break all the bricks or let the ball fall.
 
-
-# License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 # Acknowledgments
 
